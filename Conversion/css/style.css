@@ -1,0 +1,60 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+header{
+	line-height: 60px;
+	background: #498BF4;
+	text-align: center;
+	color: #fff;
+	font-size: 22px;
+}
+
+main{
+	padding : 0 10px;
+}
+
+main p{
+	margin: 15px 0;
+	font-size: 18px;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+table tr{
+	line-height: 30px;
+}
+
+table thead{
+	background: #58FA82;
+}
+
+table thead th{
+	width: 150px;
+}
+
+table tbody{
+	background: #F7D358;
+}
+
+table tbody td{
+	width: 150px;
+	text-align: center;
+}
+
+table tfoot{
+	background: #FE2E2E;
+}
+
+table tfoot td{
+	width: 150px;
+	text-align: center;
+}
+
+table tfoot td:first-child{
+	text-align: right;
+}
